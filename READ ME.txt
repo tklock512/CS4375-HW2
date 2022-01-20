@@ -1,0 +1,8 @@
+Author: Terrence Klock
+This program was developed on Windows. 
+
+To compile and run the program, navigate to the directory containing the program. Then, enter the command:
+
+	python .\main.py train.dat test.dat
+
+The train.dat and test.dat files should contain the training data and testing data respectively. BOTH MUST BE IN THE COMMAND LINE FOR THE PROGRAM TO RUN.
